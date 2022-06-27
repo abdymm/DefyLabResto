@@ -5,7 +5,7 @@
 ### Requirements
 - [x] Having tab navigation
 - [x] Fetching list of places from internet
-- [ ] Fetching list of places from internet based on device location
+- [x] Fetching list of places from internet based on device location
 - First tab 
     - [x] Should include list of places 
     - [x] Each of items have 2 buttons, view detail and view on map
