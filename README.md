@@ -29,6 +29,7 @@
 - Icons: react-native-vector-icons
 - Location: react-native-geolocation-service
 - Maps: react-native-maps
+- Places API: Here
 
 ### Pattern and Project Structure
 
